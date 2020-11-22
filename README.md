@@ -1,3 +1,3 @@
 # MatterJSBoilerPlate
 MatterJSBoilerPlate
-https://manya1606.github.io/Project-27/
+https://tripti03.github.io/manyaP27/
